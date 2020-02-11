@@ -1,6 +1,6 @@
 # WAISE_Twitterbot
 
-A chatbot ( twitterbot) made by an order 2  markov chain , 
+the waise chatbot is a twitterbot made by an order 2  markov chain , 
  this project is developed in python . 
  this chatbot publish periodically new tweets and reply to tweets .
  the datasets are in the directory : data , are a collection of donald trump tweets . 
